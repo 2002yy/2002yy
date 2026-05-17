@@ -16,9 +16,11 @@
 |---|---|---|---|
 | [LiteCDNet](https://github.com/2002yy/LiteCDNet) | Lightweight remote sensing change detection model | PyTorch | 2.47M Params, 2.14G FLOPs, A0-A7 ablation |
 | [BallWar](https://github.com/2002yy/BallWar) | 2D territory-control arcade game | Godot 4 / GDScript | Releases, Android export, 10 CI test runners |
-| [Study Agent](https://github.com/2002yy/-study-agent) | Local AI learning assistant | Python / Streamlit / LLM | Model routing, long-term memory, 140 tests |
+| [Study Agent](https://github.com/2002yy/study-agent) | Local AI learning assistant | Python / Streamlit / LLM | Model routing, long-term memory, 140 tests |
 | [AutoClicker-Pro](https://github.com/2002yy/AutoClicker-Pro) | Windows automation tool | Python / CustomTkinter | Macro recording, packaging, GUI |
 | [Vector Breach Godot](https://github.com/2002yy/vector-breach-godot) | Godot FPS prototype migration | Godot 4 | Graybox level, weapon system, headless tests |
+
+Currently preparing for software / backend / AI application roles.
 
 ## Engineering Habits
 
